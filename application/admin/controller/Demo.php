@@ -19,7 +19,7 @@ class Demo extends Controller
 
     //成功页面
     public function su(){
-        return '我是成功界面';
+        return '我是成功界面git第一';
     }
 
 /*    public function aa(){

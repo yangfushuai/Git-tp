@@ -57,7 +57,7 @@ Route::any('/',function (){
 */
 
 //Route::get('abc','index/index/index')->name('indexr');
-Route::get('abc','@index/index/index')->name('indexr');
+//Route::get('abc','@index/index/index')->name('indexr');
 
 
 
